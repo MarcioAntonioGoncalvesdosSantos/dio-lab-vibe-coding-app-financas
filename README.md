@@ -1,5 +1,16 @@
 # 💸 App de Finanças Pessoal do Marcio com Vibe Coding
 
+# DICA IMMPORTANTE PARA NÃO GASTAR CREDITOS NENHUM NA LOVABLE.
+# Ative o conector do seu github na lovable
+# Ative o plugin github no seu chatgpt
+# Assim faça todas as alterações do projeto via CHATGPT; conectato com o LOVABLE, e com isso não usa nenhum crédito.
+
+https://www.youtube.com/watch?v=RIHE111KW78
+
+
+
+
+
 
 
 # PRD refinado com CHATGPT.
